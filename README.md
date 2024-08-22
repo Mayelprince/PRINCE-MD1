@@ -4,7 +4,7 @@
  <img alt="PRINCE-MD" height="300" src="https://telegra.ph/file/6f286ab70044f47140d2f.jpg">
   
 </h1> 
-<p align="center">l introduce <b>BONIPHACE-MD</b>, a powerful simple WhatsApp bot </p>
+<p align="center">l introduce <b>PRINCE-MD</b>, a powerful simple WhatsApp bot </p>
 
 </p>
   <p align="center">
@@ -55,10 +55,10 @@
 
 ## 1.FIRST STEP 
 ## Fork PRINCE-MD Repo
-”9Ð5 ”9Ð5  ”9Ð5 ”9Ð5
+â€9Ã5 â€9Ã5  â€9Ã5 â€9Ã5
 <a href="https://github.com/Mayelprince/PRINCE-MD1/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=darkblue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
-star7¿8 my repo if you like this bot•0Í6
+starÂ7Â¿8 my repo if you like this botâ€¢0Ã6
 
 
 ## 2.SECOND STEP 
@@ -89,7 +89,7 @@ star7¿8 my repo if you like this bot•0Í6
 - <a align="center"><a href="https://signup.heroku.com">
  <img src="https://img.shields.io/badge/Create%20Account%20Now-darkblue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
-### 2. If You Have Account On Heroku**”9Ð5 ”9Ð5 ”9Ð5
+### 2. If You Have Account On Heroku**â€9Ã5 â€9Ã5 â€9Ã5
 
    <br>
     <a href='https://dashboard.heroku.com/new?template=https://github.com/boniphace478/BONIPHACE-MD' target="_darkblue"><img alt='DEPLOY TO HEROKU' src="https://img.shields.io/badge/Deploy%20To%20Heroku-darkblue?style=for-the-badge&logo=heroku" width="200" height="38.45"/></a></p>
@@ -121,7 +121,7 @@ CONTACT DEVELOPER ON WHATSAPP
 The WhatsApp Bot PRINCE-MD is released under the [MIT License](https://opensource.org/licenses/MIT).
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-”9²9 THANK YOU FOR CHOOSING PRINCE-MD ”9²9
+â€9Â²9 THANK YOU FOR CHOOSING PRINCE-MD â€9Â²9
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## DEVELOPERS :
@@ -130,7 +130,7 @@ The WhatsApp Bot PRINCE-MD is released under the [MIT License](https://opensourc
 - [**Developers YT**](https://youtue.com/@anthonyboniphace?si=86VH4Q_OQYO)
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
-¡ïTHANKS BE TO GOD •0†5. 0„8
+Â¡Ã¯THANKS BE TO GOD â€¢0â€ 5. Â0â€ž8
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
      

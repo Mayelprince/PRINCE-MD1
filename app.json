@@ -1,9 +1,9 @@
 {
-  "name":"BONIPHACE-MD UPDATE BY ME",
-  "description":"Best WhatsApp Bot Developed By Boniphace Tech Contact me 255716661569, Thank you for choose BONIPHACE-MD",
+  "name":"PRINCE MAYEL UPDATE BY ME",
+  "description":"Best WhatsApp Bot Developed By PRINCE MAYEL Contact me 23768269Xxx, Thank you for choose BONIPHACE-MD",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/5462ea7070b61eb790caa.jpg",
-  "repository":"https://github.com/boniphace478/BONIPHACE-MD",
+  "logo":"https://telegra.ph/file/6f286ab70044f47140d2f.jpg",
+  "repository":"https://github.com/Mayelprince/PRINCE-MD1",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"BONIPHACE-MD",
+      "value":"PRINCE-MD",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/3dd4203db276e0fb61957.jpg",
+      "value":"https://telegra.ph/file/6f286ab70044f47140d2f.jpg",
       "required":false
        
      },
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "BONIPHACE TECH👑"
+    "value": "PRINCE"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "255716661569"
+    "value": "237682698517"
 	  
   },
     "WARN_COUNT":
